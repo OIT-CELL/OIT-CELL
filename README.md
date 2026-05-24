@@ -1,4 +1,5 @@
 Hi, I'm Oussama ITRBI 👋
+
 AI Program Manager | Enterprise AI Deployment | Open-source learner
 I bridge the gap between AI platforms and the complex organizations that need to adopt them.
 Over 7 years, I've deployed technology at scale across some of the most demanding enterprise environments in Europe — 3,000 hotels at Accor, 5 markets at L'Oréal, 30+ SAP platforms globally. In every case, the hardest problem was never the technology itself. It was getting organizations to receive it.
@@ -20,6 +21,7 @@ Background
 
 
 Skills
+
 Program & Project Management — PRINCE2 certified, Agile/Scrum, risk frameworks, KPI reporting
 Technical — Python, SQL, Node.js, API integration, Salesforce, SAP, IBM Planning Analytics, DevOps practices
 Languages — French 🇫🇷 English 🇬🇧 Arabic 🇲🇦 Spanish 🇪🇸
