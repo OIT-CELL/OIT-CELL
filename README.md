@@ -34,6 +34,9 @@ AI product management & enterprise AI operations
 
 
 Let's connect
+
 📍 Paris, France
-💼 LinkedIn
+
+💼 [LinkedIn](https://www.linkedin.com/in/itrbi)
+
 📧 itrbi.oussama@gmail.com
